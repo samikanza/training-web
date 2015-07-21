@@ -11,7 +11,7 @@ weight: 2
 ## **Presentations**
 <br>
 
-**Charectertiscs of data** ([Slides](/resources/ODP_Charecteristics.pdf))
+**Characteristics of data** ([Slides](/resources/ODP_Charecteristics.pdf))
 
 We recap the pre-training exercise and look at perceptions of what data is.  
  
